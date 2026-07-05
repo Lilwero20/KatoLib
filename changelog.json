@@ -1,7 +1,7 @@
 {
-    "Status": "Updating",
-    "latest": "1.0.0",
-    "notes": "Improving Auto Farm, Adding World 3 & Fixing Shop Tab",
+    "Status": "Working",
+    "latest": "1.0.1",
+    "notes": "Auto Farm Mejorado, Auto Farm para el mundo 3 y podras Farmear Wins siendo nivel bajo.",
     "releaseDate": "04-07-2026",
     "minSupported": "1.0.0"
 }
