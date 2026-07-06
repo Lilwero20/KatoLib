@@ -1,7 +1,7 @@
 {
     "Status": "Working",
-    "latest": "1.0.1",
-    "notes": "Auto Farm Mejorado, Auto Farm para el mundo 3 y podras Farmear Wins siendo nivel bajo.",
-    "releaseDate": "04-07-2026",
+    "latest": "1.0.2",
+    "notes": "Auto Farm Mejorado, Se añadio detector de nivel bajo, esto sirve al momento de seleccionar las Wins que farmearas, te dira si tu nivel te lo permite o no.",
+    "releaseDate": "06-07-2026",
     "minSupported": "1.0.0"
 }
