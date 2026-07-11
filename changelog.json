@@ -1,7 +1,7 @@
 {
     "Status": "Working",
-    "latest": "1.0.2",
-    "notes": "Auto Farm Mejorado, Se añadio detector de nivel bajo, esto sirve al momento de seleccionar las Wins que farmearas, te dira si tu nivel te lo permite o no.",
+    "latest": "1.0.4",
+    "notes": "Anti Afk Added.",
     "releaseDate": "06-07-2026",
     "minSupported": "1.0.0"
 }
